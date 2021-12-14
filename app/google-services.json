@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619164680868",
+    "firebase_url": "https://chatapplication-5746c-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-5746c",
+    "storage_bucket": "chatapplication-5746c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619164680868:android:d617e60517b056e4805c31",
+        "android_client_info": {
+          "package_name": "com.dili.chatappbos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619164680868-tun90k60dplgul3v76virduej0g2faek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIBb905_BEQ2CQBSShofa9IBER5IyjTow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619164680868-tun90k60dplgul3v76virduej0g2faek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
